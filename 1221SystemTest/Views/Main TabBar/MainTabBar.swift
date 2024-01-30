@@ -1,6 +1,7 @@
 import SwiftUI
 
 struct MainTabBar: View {
+    
     var body: some View {
         TabView {
             DetailView()
