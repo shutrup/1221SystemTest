@@ -4,7 +4,7 @@ import SwiftUI
 struct _221SystemTestApp: App {
     var body: some Scene {
         WindowGroup {
-            DetailView()
+            MainTabBar()
         }
     }
 }
